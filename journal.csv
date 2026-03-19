@@ -1,4 +1,4 @@
-date,feeling
-2026-03-19,feeling great about learning terminal
-2026-03-20,nervous but excited about git
-2026-03-21,feeling confident
+date,feeling,mood_score
+2026-03-19,feeling great about learning terminal,8
+2026-03-20,nervous but excited about git,7
+2026-03-21,confident after first push,9
